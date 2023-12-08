@@ -8,6 +8,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 <br>
 <div><img align="right" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" title="Quine Stats Card" alt="logo" height="330" width="420"></div>
+<br>
 <div>
 
  📝 I have written blog on: [https://opensource.tcetmumbai.in/blog/intro-to-blockchain](https://opensource.tcetmumbai.in/blog/intro-to-blockchain)
@@ -32,9 +33,7 @@
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashish-51&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="kashish-51" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashish-51&show_icons=true&theme=dracula&locale=en" alt="kashish-51" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashish-51&theme=synthwave&" alt="kashish-51" /></p>
 </div>
 
