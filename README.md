@@ -10,11 +10,11 @@
 <div><img align="right" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" title="Quine Stats Card" alt="logo" height="330" width="420"></div>
 <div>
 
- 📝 I have written blog on [https://opensource.tcetmumbai.in/blog/intro-to-blockchain](https://opensource.tcetmumbai.in/blog/intro-to-blockchain)
+ 📝 I have written blog on: [https://opensource.tcetmumbai.in/blog/intro-to-blockchain](https://opensource.tcetmumbai.in/blog/intro-to-blockchain)
 
- 📫 How to reach me **singhkashish14203@gmail.com**
+ 📫 How to reach me: **singhkashish14203@gmail.com**
 
- ⚡ Fun fact **I think I talk alot 🤭**
+ ⚡ Fun fact: **I think I talk alot 🤭🙃**
 </div>
 
 
