@@ -36,5 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashish-51&show_icons=true&theme=dracula&locale=en" alt="kashish-51" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashish-51&theme=synthwave&" alt="kashish-51" /></p>
 </div>
-
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ct4nwji57eppjyk32csctfuize&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true" /></div>  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kashish-51&label=Profile%20views&color=0e75b6&style=flat" alt="kashish-51" /> </p>
